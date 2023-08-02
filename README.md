@@ -34,3 +34,12 @@ In Canaria _for EN and ES_, this suffix is a roll in both languages!  Other freq
 
 Canaria has an optimal vowel cluster for both Spanish and English words.  `I` and `A` need to be next to each other for the common in-roll and out-roll patterns both languages have.   Spanish contains more sequences of `ia` and `ía` while `ai` as in `rain` and `aid` appear in English.
 
+# Will this layout make me _fast_ at typing?
+
+It has great potential to.  There are hundreds of factors at play when it comes to your typing speed.  The biggest of them are:
+  - the amount of exposure you have converting sounds spoken in the language into characters typed
+  - touch-typing proficiency: the fastest typists do everything by feel.   Do you stare at your steering wheel when driving your car, or do you look at the road?
+  - reducing typos: the best typists work on their typos by working on the syllables they continue to get wrong.   You can use [KeyZen](https://adamgradzki.com/keyzen3/) to help with this
+
+Canaria can help with your typing speed by reducing the amount of single-finger bigrams (SFBs) you encounter.  SFBs block your ability to roll your words with one swooping motion across the keys—the same effect that a double-letter sequence has.   With more possible rolls in Canaria, you can build fast moments of word parts.   For example: `ordinary` can be typed in two rolling motions: `ordin` as one high-speed ngram, and `ary` as another ngram.   The word `convention` can be done in three ngrams:  `con`, `ven` and `tion`.
+
