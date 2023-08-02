@@ -11,7 +11,7 @@ Canaria is based on the community-optimized keyboard layout [Canary](https://git
 ## What changed from Canary?
 The letter `J`.  While `J` makes the least frequent appearance in English (aside from legal documents), in the Spanish language the consonant has more prominence.  For QWERTY typists this letter gets the best position: the home row right index finger.  In Canaria the `J` is rotated up a level on the keyboard to keep its usefulness to Spanish speakers while still making room for the optimization of English.   Many English alternative keyboard layouts push `J` to the least ergonomic position possible, destroying its usefuless to bilingual people.
 
-## I use U.S. International to code-swicth from English to Spanish, shouldn't that be enough?
+## I use U.S. International to code-switch from English to Spanish, shouldn't that be enough?
 Well, you're in QWERTY which is not an ergonomic layout.  And you might also be using the AltGr key (right-hand Alt) which is even more damaging for your hands.
 
 There's also 3 dead keys in U.S. International, but we're guessing beyond English and Spanish you're not spending a great deal of time writing for Portuguese, French, German or Norweigan.  You're writing for an Anglophone or Hispanophone audience somewhere in Latin America, verdad?  Bueno.   Less is more, so the backtick/tilde key found in US-English doubles up as the only dead key in Canaria.  AltGr is still there, if you insist on using it.
