@@ -16,9 +16,17 @@ Well, you're in QWERTY which is not an ergonomic layout.  And you might also be 
 
 There's also 3 dead keys in U.S. International, but we're guessing beyond English and Spanish you're not spending a great deal of time writing for Portuguese, French, German or Norweigan.  You're writing for an Anglophone or Hispanophone audience somewhere in Latin America, verdad?  Bueno.   Less is more, so the backtick/tilde key found in US-English doubles up as the only dead key in Canaria.  AltGr is still there, if you insist on using it.
 
-## I don't speak Spanish.  Should I use this layout?
+## Why is it called Canaria?
+
+The city of [San Antonio, Texas](https://en.wikipedia.org/wiki/San_Antonio) was established by Catholic monks from the Canary Islands, a property of Spain.   San Antonio is one of the most bilingual large cities in the United States with a large population that speaks and writes Spanish at home.
 
 The `J` optimization in Canaria had imperceptible impact versus using base Canary.  If you only write in English, this layout is just as good as Canary.  If you intend to become a Spanish student at a later date, Canaria will be there for you.
+
+## Who _shouldn't_ use this layout?
+
+Canaria is tweaked for Spanish support and is perfect for ANSI keyboards which are commonly used in the United States and Northern Mexico and can be used on ISO keyboards elsewhere in Latin America.   It does not include support for Portuguese and French which require more dead keys to represent the grave accent (`patè`) or the circumflex (`côte`) found in French and the tilde over the vowels in Portuguese (`São Miguel`), and the cedilla (`Açores`) common to both.
+
+While I have studied the use of Spanish on the Canary layout and found it quite beneficial, I haven't done a study if the layout can retain its optimization benefits for French or Portuguese.  In any case, it would make more sense to build region specific layouts for French Canadian and Brazil where the complexity of multiple dead keys can be optimized specific to those two languages.
 
 ## What happened to the backtick key?  And why do I have to press it twice to get a backtick?
 
