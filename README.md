@@ -9,12 +9,20 @@ If you are on an ANSI rowstag (U.S. standard) keyboard, use this version:
 Canaria is based on the community-optimized keyboard layout [Canary](https://github.com/Apsu/Canary), with one small change added to improve its usefulness to people in the Americas who speak and write in both English and Spanish.  For a deep-dive on the optimizations this layout has, visit the [Canary](https://github.com/Apsu/Canary) git.  Canary is a `CRST` layout that features a homerow well-suited to bilingual EN/ES users in Latin America. 
 
 ## What changed from Canary?
-The letter `J`.  While `J` makes the least frequent appearance in English (aside from legal documents), in the Spanish language the consonant has more prominence.  For QWERTY typists this letter gets the best position: the home row right index finger.  In Canaria the `J` is rotated up a level on the keyboard to keep its usefulness to Spanish speakers while still making room for the optimization of English.   Many English alternative keyboard layouts push J to the least ergonomic position possible, destroying its usefuless to bilingual people.
+The letter `J`.  While `J` makes the least frequent appearance in English (aside from legal documents), in the Spanish language the consonant has more prominence.  For QWERTY typists this letter gets the best position: the home row right index finger.  In Canaria the `J` is rotated up a level on the keyboard to keep its usefulness to Spanish speakers while still making room for the optimization of English.   Many English alternative keyboard layouts push `J` to the least ergonomic position possible, destroying its usefuless to bilingual people.
 
 ## I use U.S. International to code-swith from English to Spanish, shouldn't that be enough?
 Well, you're in QWERTY which is not an ergonomic layout.  And you might also be using the AltGr key (right-hand Alt) which is even more damaging for your hands.
 
 There's also 3 dead keys in U.S. International, but we're guessing beyond English and Spanish you're not spending a great deal of time writing for Portuguese, French, German or Norweigan.  You're writing for an Anglophone or Hispanophone audience somewhere in Latin America, verdad?  Bueno.   Less is more, so the backtick/tilde key found in US-English doubles up as the only dead key in Canaria.  AltGr is still there, if you insist on using it.
+
+## I don't speak Spanish.  Should I use this layout?
+
+The `J` optimization in Canaria had imperceptible impact versus using base Canary.  If you only write in English, this layout is just as good as Canary.  If you intend to become a Spanish student at a later date, Canaria will be there for you.
+
+## What happened to the backtick key?  And why do I have to press it twice to get a backtick?
+
+You have encountered what keyboard layout-nerds call a _dead key_.  A dead key doesn't type a letter but instead modifies the next letter to be typed.   To type `Ñ`, you press `` ` `` then `N`.
 
 ## Why should I use this keyboard layout vs. QWERTY, Colemak, Colemak-DH, Dvorak, Workman, etc.?
 
