@@ -52,6 +52,15 @@ In Canaria _for EN and ES_, this suffix is a roll in both languages!  Other freq
 
 Canaria has an optimal vowel cluster for both Spanish and English words.  `I` and `A` need to be next to each other for the common in-roll and out-roll patterns both languages have.   Spanish contains more sequences of `ia` and `ía` while `ai` as in `rain` and `aid` appear in English.
 
+### Avoiding single-finger bigrams is important
+
+From the homepage of the [Workman](https://workmanlayout.org) layout:
+![image](https://github.com/christoofar/canaria/assets/5059144/7ed67028-665f-4c39-b56f-2cc27ceeaa9c)
+
+The use of `LY` is even more dense elsewhere on that website.  What's also frustrating about Workman is that some great opportunities for rolls are lost because of the vowel cluster or the consonant is clearly on the wrong side of the board.  The word `people` is a Top-200 word in English, and typing it enough in Workman is begging for carpal tunnel syndrome.   Workman is no help to Spanish as `za` as in `fuerza` has two SFBs.
+
+Not ideal.
+
 # Will this layout make me _fast_ at typing?
 
 It has great potential to.  There are hundreds of factors at play when it comes to your typing speed.  The biggest of them are:
