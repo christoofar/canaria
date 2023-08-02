@@ -1,5 +1,5 @@
 # Canaria
-An optimized and ergonomic alternative ANSI keyboard layout for English and Spanish speakers in the United States, Northern Mexico, and elsewhere in Latinoamerica wherever Espangles is used.
+An optimized and ergonomic alternative ANSI keyboard layout for English and Spanish speakers in the United States, Northern Mexico, and elsewhere in Latinoamerica wherever Espangláis is used.
 
 ## The layout
 If you are on an ANSI rowstag (U.S. standard) keyboard, use this version:
