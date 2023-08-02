@@ -24,6 +24,14 @@ The city of [San Antonio, Texas](https://en.wikipedia.org/wiki/San_Antonio) was 
 
 Yes.  The `J` optimization in Canaria had imperceptible impact versus using base Canary.  If you only write in English, this layout is just as good as Canary.  If you intend to become a Spanish student at some later date, Canaria will be there for you.
 
+## How does this layout work for Spanish?
+
+`CRST` layouts are interesting for Spanish because of the prominent appearace of `C` in Spanish root words and the common English-Spanish suffix of `tion` and `cion` to both languages.  The trigram `ces` makes a heavy appearance in Spanish to make plurals, which are done with adding `s` or `es` to root words in English.  All these modifications to words follow the same typing flow in both languages—a major benefit to bilingual typists.
+
+The location of `M` in Canary on the right index finger is in a center-board "sweet spot" where it can quickly form `mente` at the homerow, or interact with vowel cluster as in `movimiento`,  or across the board as in `madrugada`.   But it's not so prominent that it degrades English performance.
+
+Finally, the 'J' which replaces the 'H' sound in English is elevated to an easy location, at the expense of `X`.  But this isn't much of a tradeoff.   In fact, the loss of the `ZXCV` undo-cut-copy-paste letters in Canary gets restored somewhat by moving `X` back to the left side of the board.  `Z` is in the worst location of a staggered layout keyboard, but in Spanish the letter `Z` either starts a word, or when it's ending a word the final letters of the word will certainly be the vowel cluster next to `Z`.  This is true even for proper nouns (`Garza`, `Zarzomora`).  But the location change is actually an improvement!  In QWERTY the letter `Z` is in the same column as `A`, so every `az` and `za` bigram is a detrimental SFB.  `za` appears in Spanish frequently.
+
 ## Who _shouldn't_ use this layout?
 
 Canaria is tweaked for Spanish support and is perfect for ANSI keyboards which are commonly used in the United States and Northern Mexico and can be used on ISO keyboards elsewhere in Latin America.   It does not include support for Portuguese and French which require more dead keys to represent the grave accent (`patè`) or the circumflex (`côte`) found in French and the tilde over the vowels in Portuguese (`São Miguel`), and the cedilla (`Açores`) common to both.
