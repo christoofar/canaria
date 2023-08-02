@@ -18,9 +18,11 @@ There's also 3 dead keys in U.S. International, but we're guessing beyond Englis
 
 ## Why is it called Canaria?
 
-The city of [San Antonio, Texas](https://en.wikipedia.org/wiki/San_Antonio) was established by Catholic monks from the Canary Islands, a property of Spain.   San Antonio is one of the most bilingual large cities in the United States with a large population that speaks and writes Spanish at home.
+The city of [San Antonio, Texas](https://en.wikipedia.org/wiki/San_Antonio) was established by Catholic monks from the Canary Islands, a property of Spain.   While no longer a part of Spain, San Antonio today is one of the largest bilingual cities in the United States with a large population that speaks and writes Spanish at home.
 
-The `J` optimization in Canaria had imperceptible impact versus using base Canary.  If you only write in English, this layout is just as good as Canary.  If you intend to become a Spanish student at a later date, Canaria will be there for you.
+## I only speak English.  Should I use this layout?
+
+Yes.  The `J` optimization in Canaria had imperceptible impact versus using base Canary.  If you only write in English, this layout is just as good as Canary.  If you intend to become a Spanish student at some later date, Canaria will be there for you.
 
 ## Who _shouldn't_ use this layout?
 
