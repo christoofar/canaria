@@ -45,6 +45,16 @@ While I have studied the use of Spanish on the Canary layout and found it quite 
 
 You have encountered what keyboard layout-nerds call a _dead key_.  A dead key doesn't type a letter but instead modifies the next letter to be typed.   To type `Ñ`, you press `` ` `` then `N`.
 
+## Spanish layouts typically have their own Ñ key.  Why doesn't this one?
+
+Two reasons:  Spain and Latin America (outside Northern Mexico) computer users typically buy ISO keyboards which add two additional keys to the layout.  The `;` in English-QWERTY is often used to place `Ñ`.   In European Spanish the QWERTY layout is even more complicated, including the bizzare duplicate placement of the Euro currency symbol `€` and the placement of the dead keys:
+
+![image](https://github.com/christoofar/canaria/assets/5059144/10a007b1-3fd1-4322-b64e-a4f68b13804b)
+
+Eurospanish and the ISO Latinoamerica layout both throw in `Ç` as an afterthought for the cases of borrowings from French and Portuguese.   In practice as Spanish is used in the USA and Mexico (the largest region where EN/ES bilingualism exists) these add-ons to the layout are not used.
+
+A nice feature of Canaria is that `Ñ` shares a place in the vowel cluster which complements the behavior `Ñ` actually performs in the language: a vowel sound.   The word `cañón` in Spanish is borrowed into English with its pronunciation intact: `canyon`, where the semi-vowel `Y` is then revealed.
+
 ## Why should I use this keyboard layout vs. QWERTY, Colemak, Colemak-DH, Dvorak, Workman, etc.?
 
 The are many reasons!  The biggest are the rolls.  In Canaria the frequency that syllables or entire words can be keyed with a roll is quite high.   This results in a "flowy" layout design where common English sounds like `tion` `ought` `wha` `int` are rolls.  The more you use a high-roll layout, the faster your typing will get over the expanse of time.
