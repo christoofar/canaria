@@ -1,6 +1,9 @@
 # Canaria
 An optimized and ergonomic alternative ANSI keyboard layout for English and Spanish speakers in the United States, Northern Mexico, and elsewhere in Latinoamerica wherever Espangláis is used.
 
+## Installation
+You can get the latest [over here](https://github.com/christoofar/canaria/releases/tag/latest)
+
 ## The layout
 If you are on an ANSI rowstag (U.S. standard) keyboard, use this version:
 ![image](https://github.com/christoofar/canaria/assets/5059144/55472c0b-efe9-4dce-8002-5a4227e5ff7c)
