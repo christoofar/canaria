@@ -19,6 +19,8 @@ Well, you're in QWERTY which is not an ergonomic layout.  And you might also be 
 
 There's also 3 dead keys in U.S. International, but we're guessing beyond English and Spanish you're not spending a great deal of time writing for Portuguese, French, German or Norweigan.  You're writing for an Anglophone or Hispanophone audience somewhere in Latin America, verdad?  Bueno.   Less is more, so the backtick/tilde key found in US-English doubles up as the only dead key in Canaria.  AltGr is still there, if you insist on using it.
 
+*Note*:  We violate the intent of the dead key on purpose in this layout.   The "backtick" `` ` `` as it is known in USA English is typically used to call for the grave diacritical mark.   In Canaria, the letters that can have diacritical marks in Spanish are clustered together in a pleasing order.  So it makes sense here to treat the dead key as a faster-alternative to AltGr.
+
 ## Why is it called Canaria?
 
 The city of [San Antonio, Texas](https://en.wikipedia.org/wiki/San_Antonio) was established by Catholic monks from the Canary Islands, a property of Spain.   While no longer a part of Spain, San Antonio today is one of the largest bilingual cities in the United States with a large population that speaks and writes Spanish at home.
