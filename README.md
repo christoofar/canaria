@@ -51,7 +51,7 @@ Two reasons:  Spain and Latin America (outside Northern Mexico) computer users t
 
 ![image](https://github.com/christoofar/canaria/assets/5059144/10a007b1-3fd1-4322-b64e-a4f68b13804b)
 
-Eurospanish and the ISO Latinoamerica layout both throw in `Ç` as an afterthought for the cases of borrowings from French and Portuguese.   In practice as Spanish is used in the USA and Mexico (the largest region where EN/ES bilingualism exists) these add-ons to the layout are not used.
+Eurospanish and the ISO Latinoamerica layout both throw in `Ç` for the cases of borrowings from French and Portuguese.  It makes sense in Spain, sharing Portugal and France as neighbors, and Uruguay, Paraguay, and Argentina interacting with Brazil.  But in-practice as Spanish is used in the USA and Mexico (the largest region where EN/ES bilingualism exists) these add-ons to the layout are not used.
 
 A nice feature of Canaria is that `Ñ` shares a place in the vowel cluster which hints at the behavior `Ñ` actually performs in the language: a vowel-dependent consonant.   The word `cañón` in Spanish is borrowed into English with its pronunciation intact: `canyon`, where the semi-vowel `Y` is revealed.
 
