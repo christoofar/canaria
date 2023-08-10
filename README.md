@@ -5,7 +5,7 @@ An optimized and ergonomic alternative ANSI keyboard layout for English and Span
 You can get the latest [over here](https://github.com/christoofar/canaria/releases/tag/latest)
 
 ## tmux, vim, emacs bindings
-Courtesy of [@ajgrf](https://github.com/ajgrf), here are some binding configurations to your favorite FOSS tools:
+Courtesy of [@ajgrf](https://github.com/ajgrf), here are some binding configurations to your favorite FOSS tools (to restore your shortcut keys back to your original muscle-memory):
 - [vim](https://gitlab.com/ajgrf/dotfiles/-/commit/09408dd47cc1e41970ef930566b426e77090deee)
 - [less](https://gitlab.com/ajgrf/dotfiles/-/commit/3a1dbc8a21bb76489dcb7381f9d22abe532f2433)
 - [xmonad](https://gitlab.com/ajgrf/dotfiles/-/commit/9bb17c33541421545c7a4eb983bd1c25c814f871)
