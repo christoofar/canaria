@@ -13,6 +13,8 @@ Courtesy of [@ajgrf](https://github.com/ajgrf), here are some binding configurat
 - [tmux](https://gitlab.com/ajgrf/dotfiles/-/commit/7f3e081b2e270b3d32e5608a004cb60206fa17f3)
 - [emacs](https://gitlab.com/ajgrf/dotfiles/-/commit/5b9c1dfe8c843eb9163870971f3be23f97aeb9b3) (evil)
 
+[discussion here](https://github.com/christoofar/canaria/issues/2)
+
 ## The layout
 If you are on an ANSI rowstag (U.S. standard) keyboard, use this version:
 ![image](https://github.com/christoofar/canaria/assets/5059144/55472c0b-efe9-4dce-8002-5a4227e5ff7c)
