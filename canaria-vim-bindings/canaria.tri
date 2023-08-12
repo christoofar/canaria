@@ -1,0 +1,23 @@
+" -*- mode:vimrc; -*-
+" vim: set filetype=vim:
+
+bind n scrollline 10
+bind e scrollline -10
+bind N tabnext
+bind E tabprev
+bind f scrollpx -50
+bind i scrollpx 50
+bind F back
+bind I forward
+bind m findnext 1
+bind M findnext --reverse 1
+bind h gobble 1 markadd
+bind H gobble 1 quickmark
+bind l hint
+bind L hint -b
+
+bind --mode=visual n js document.getSelection().modify('extend','forward','line')
+bind --mode=visual e js document.getSelection().modify('extend','backward','line')
+bind --mode=visual f js document.getSelection().modify('extend','backward','character')
+bind --mode=visual i js document.getSelection().modify('extend','forward','character')
+bind --mode=visual k js document.getSelection().modify('extend','forward','word')

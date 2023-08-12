@@ -4,16 +4,8 @@ An optimized and ergonomic alternative ANSI keyboard layout for English and Span
 ## Installation
 You can get the latest [over here](https://github.com/christoofar/canaria/releases/tag/latest)
 
-## tmux, vim, emacs bindings
-Courtesy of [@ajgrf](https://github.com/ajgrf), here are some binding configurations to your favorite FOSS tools (to restore your shortcut keys back to your original muscle-memory):
-- [vim](https://gitlab.com/ajgrf/dotfiles/-/commit/09408dd47cc1e41970ef930566b426e77090deee)
-- [less](https://gitlab.com/ajgrf/dotfiles/-/commit/3a1dbc8a21bb76489dcb7381f9d22abe532f2433)
-- [xmonad](https://gitlab.com/ajgrf/dotfiles/-/commit/9bb17c33541421545c7a4eb983bd1c25c814f871)
-- [tridactyl](https://gitlab.com/ajgrf/dotfiles/-/commit/d51a4d43867a6a3c3073fb351c4a8c2ba2b993f3)
-- [tmux](https://gitlab.com/ajgrf/dotfiles/-/commit/7f3e081b2e270b3d32e5608a004cb60206fa17f3)
-- [emacs](https://gitlab.com/ajgrf/dotfiles/-/commit/5b9c1dfe8c843eb9163870971f3be23f97aeb9b3) (evil)
-
-[discussion here](https://github.com/christoofar/canaria/issues/2)
+### vim-like key bindings
+Courtesy of [@ajgrf](https://github.com/ajgrf), there are configuration files with suggested vim-like key bindings for your favorite FOSS tools (to restore your shortcut keys back to your original muscle-memory). See the [documentation](./canaria-vim-bindings/README.md) for more information.
 
 ## The layout
 If you are on an ANSI rowstag (U.S. standard) keyboard, use this version:
