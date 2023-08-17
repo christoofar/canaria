@@ -1,6 +1,6 @@
 # Orthoginal Canaria
 
-![image](https://github.com/christoofar/canaria/assets/5059144/a7c64bb9-0873-4bdd-8bbd-76d3d911a0af)
+![image](https://github.com/christoofar/canaria/assets/5059144/10971d8e-09a6-4f35-bad0-fbd18d44352f)
 *a Corne keyboard in the standard Canaria-ortho layout*
 
 ## What Canaria Ortho looks like
@@ -8,7 +8,7 @@
 This is the standard layout, but most ortho keyboard owners are on programmable boards, so I will leave
 it up to you to solve for `( ) < > [ ] { } | \`, etc:
 ```
-W L Y P B   J F O U ;
+W L Y P B   F J O U ;
 C R S T G   M N E I A
 Q Z V D K   X H / , .
 ```
@@ -26,7 +26,7 @@ On ortho boards this geometric quirk does not exist.  The keys that are harder t
 completely different than the standard row-stagger board.  Since this optimization is not available in row-stagger, 
 we rotate `G` and `M` from their Angle Mod positions on the bottom row up to the home row.
 
-Likewise, `B` and `F`
+Likewise, `B` and `F` that are on the homerow in Canaria float up to the top row.  
 
 
 ## How do you type the `Ñ`, `É`, `Í`, `Á`, `Ó`, `Ú` and `Ü`?
