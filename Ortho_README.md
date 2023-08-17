@@ -69,9 +69,9 @@ Here is what I use (pseudo-code)
 I can then hold down my left-side `SHIFT` key to then reach the upper-case Spanish
 accent modification to the layer.
 ```
-—  w l y p b  j f o u : —
-—  c r s t g  m n e i a ;   # When ; is held-down it becomes R-CTRL instead
-ES q z v d k  x h / , . —
+ALT  w l y p b  j f o u : RALT
+CTRL c r s t g  m n e i a ;   # When ; is held-down it becomes RCTRL instead
+ES   q z v d k  x h / , . ESC
 ```
 ### ES Diacriticals
 ```
