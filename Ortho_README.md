@@ -23,8 +23,8 @@ bottom row:
 D G  M H
 ```
 On ortho boards this geometric quirk does not exist.  The keys that are harder to use on ortho boards are
-completely different than the standard row-stagger board.  Since this optimization is not available in row-stagger, 
-we rotate `G` and `M` from their Angle Mod positions on the bottom row up to the home row.
+completely different than the standard row-stagger board.  Since this optimization is not available in a grid
+configuration, we rotate `G` and `M` from their Angle Mod positions on the bottom row up to the home row.
 
 Likewise, `B` and `F` that are on the homerow in Canaria float up to the top row.  
 
