@@ -37,7 +37,7 @@ The first thing you will need to learn in QMK or ZMK programmable controllers is
 
 The strongest suggestion for QMK and ZMK users is to set your keyboard layout in your operating system
 to `U.S. International`.   While that _is_ a QWERTY layout, this gives you access to the dead keys needed
-to access the diacritical marks, but without adding the baggage (and memory-hog) of adding compex Unicode
+to access the diacritical marks, but without adding the baggage (and memory-hog) of adding complex Unicode
 support to your custom keyboard microcontroller.
 
 Next, you should create a new keyboard layer for your right hand that is triggered by the left hand.  There
