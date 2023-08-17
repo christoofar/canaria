@@ -1,4 +1,4 @@
-# Orthogonal Canaria
+# Ortholinear Canaria
 
 ![image](https://github.com/christoofar/canaria/assets/5059144/10971d8e-09a6-4f35-bad0-fbd18d44352f)
 *a Corne keyboard in the standard Canaria-ortho layout*
