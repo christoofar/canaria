@@ -45,7 +45,7 @@ are hundreds of ways you can trigger this accent layer.   My favorite key to use
 bottom leftmost key, which does requires a wrist-rotate for me to reach but doesn't bother me.  
 
 You could instead optimize for a combo, preferably using a pair of keys that don't form an often-used
-bigram, like `Y P` which you can configre as a one-shot tap or as a hold-it-down then press the N or vowel key
+bigram, like `Y P` which you can configure as a one-shot tap or as a hold-it-down then press the N or vowel key
 with the right hand.
 
 ## Sending the keystrokes
