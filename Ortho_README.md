@@ -12,7 +12,7 @@ W L Y P B   F J O U ;
 C R S T G   M N E I A
 Q Z V D K   X H / , .
 ```
-## Why is the ortho version so different fron standard Canaria?
+## Why is the ortho version so different from standard Canaria?
 
 Canaria (and Canary) are "Angle Mod" keyboard layouts.  They take advantage of a feature in staggered-row
 keyboards where the index consonants have very easy reach to two other consonants just beneath them on the
