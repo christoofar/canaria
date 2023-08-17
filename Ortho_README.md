@@ -54,7 +54,7 @@ Once you've settled how you want to trigger your Spanish-accent layer, you need 
 when you press the keys you use for `N`, `E`, `I`, `O`, `U`, and `;` on your base layer.  This is also a good time
 to find placements for `¿` and `¡` within the same layer.
 
-In my case, I solved this problem my making keystroke macros to send the keystokes that `U.S. International`
+In my case, I solved this problem by making keystroke macros to send the keystokes that `U.S. International`
 expects to see when pressing the desired letter.  In QMK this is easy to accomplish 
 with [`SENDSTRING()`](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_send_string.md) but in ZMK
 you will probably need to send the step-by-step keypresses in a [macro sequence](https://zmk.dev/docs/behaviors/macroso).
