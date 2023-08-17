@@ -1,6 +1,6 @@
 # Ortho translations for staggered-row keyboards
 
-The following downloadables are for the people who are using Canaria on ortho keyboards but have the need
+The following downloadables are for the people who are using Canaria on [ortho keyboards](https://github.com/christoofar/canaria/blob/main/Ortho_README.md) but have the need
 for a soft OS layout version for use on rowstag keyboards like laptops and foreign computers where
 taking your ortho keyboard with you is not practical.
 
