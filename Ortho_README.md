@@ -107,3 +107,7 @@ You will, however, need to adjust your
 current keys for `` ` ``, `"`, `'`, `^` and `~` to deal with the problem of the
 dead keys in your OS soft layout.  The dead keys will only send a character when
 a space is pressed after the dead key.
+
+When you visit other computers with your ortho keyboard you will need to add the
+`U.S. International` keyboard layout to the computer if that layout is not otherwise
+present.
