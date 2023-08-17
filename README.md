@@ -11,6 +11,9 @@ Courtesy of [@ajgrf](https://github.com/ajgrf), there are configuration files wi
 If you are on an ANSI rowstag (U.S. standard) keyboard, use this version:
 ![image](https://github.com/christoofar/canaria/assets/5059144/55472c0b-efe9-4dce-8002-5a4227e5ff7c)
 
+## Ortho version
+Interested in putting Canaria on your Ortho board? [Read the guide](Ortho_README.md).
+![image](https://github.com/christoofar/canaria/assets/5059144/a7c64bb9-0873-4bdd-8bbd-76d3d911a0af)
 
 Canaria is based on the community-optimized keyboard layout [Canary](https://github.com/Apsu/Canary), with one small change added to improve its usefulness to people in the Americas who speak and write in both English and Spanish.  For a deep-dive on the optimizations this layout has, visit the [Canary](https://github.com/Apsu/Canary) git.  Canary is a `CRST` layout that features a homerow well-suited to bilingual EN/ES users in Latin America. 
 
