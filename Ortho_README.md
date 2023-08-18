@@ -1,4 +1,4 @@
-# Orthogonal Canaria
+# Ortholinear Canaria
 
 ![image](https://github.com/christoofar/canaria/assets/5059144/10971d8e-09a6-4f35-bad0-fbd18d44352f)
 *a Corne keyboard in the standard Canaria-ortho layout*
@@ -111,3 +111,16 @@ a space is pressed after the dead key.
 When you visit other computers with your ortho keyboard you will need to add the
 `U.S. International` keyboard layout to the computer if that layout is not otherwise
 present.
+
+# What about when I go to other computers?  How will I survive?
+
+Switching between the ortho and rowstag versions of Canaria don't come without a penalty, and
+often it's not worth the tradeoff to remember where `B, Z, F, Q, J, K, G, M` rotated to between
+the two versions.  They are essentially different layouts as far as your brain is concerned.
+
+To get around this problem it makes sense to have an OS keyboard layout that maps the ortho version
+of Canaria back to rowstag.
+
+For Windows I have made [`Canariastag`](https://github.com/christoofar/canaria/tree/main/canariastag-windows) 
+which is a translation of this ortho layout back to the standard rowstag.   I haven't had an 
+opportunity to test it, but if you get the chance to, please open an issue and let me know how it went.
